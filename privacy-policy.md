@@ -2,7 +2,7 @@ Privacy Policy for ListIn - Shopping List
 
 Effective Date: 03.10.2023
 
-1. Introduction
+1. Introduction 
 
 Welcome to ListIn ("we," "our," or "us"). We are committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal data when you use our mobile application ListIn. By using our App, you consent to the practices described in this Privacy Policy.
 
