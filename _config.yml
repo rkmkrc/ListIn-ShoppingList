@@ -4,3 +4,6 @@ plugins:
 
 title: [ListIn - Shopping List]
 description: [To support please contact: listinappcontact@gmail.com]
+
+header_pages:
+  - privacy-policy.md
